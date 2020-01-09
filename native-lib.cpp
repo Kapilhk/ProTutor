@@ -73,7 +73,7 @@ void Read_CodebookValues()
     fin.close();
 }
 
-
+//Codebook has all the vectors for generating observation sequence
 void takeInitialInput(string inputfile)
 {
     long double a;
